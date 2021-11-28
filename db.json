@@ -1,0 +1,90 @@
+{
+    "epics": [
+        {
+            "image": "https://raw.githubusercontent.com/zulfikarrahman30/image-server/main/fortnite.jpg",
+            "headline": "Fortnite",
+            "sub_head": "Windows 7/8/10 64-bit, Intel core i5 2.8ghz, 8gb RAM, Nvidia GTX 660 or AMD Radeon HD 7870"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/zulfikarrahman30/image-server/main/dauntless.png",
+            "headline": "Dauntless",
+            "sub_head": "Windows 10, intel core i7, 8gb RAM, Nvidia GTX 970"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/zulfikarrahman30/image-server/main/z.jpg",
+            "headline": "World War Z",
+            "sub_head": "Windows 7/8/10 64-bit, Intel core i3 560 or AMD phenom II x4 945, 6gb RAM, Nvidia GTX 460"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/zulfikarrahman30/image-server/main/tmc.png",
+            "headline": "Tom Clancy Series",
+            "sub_head": "Windows 10 64-bit, intel core i7 3970, 16gb RAM, GeForce GTX 960"
+        }
+    ],
+    "steam": [
+        {
+            "image": "https://raw.githubusercontent.com/zulfikarrahman30/image-server/main/dota2.jpg",
+            "headline": "Dota 2",
+            "sub_head": "Windows 7, Dual core or AMD at 2.8 ghz, 4gb RAM, NVIDIA GeForce 8600"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/zulfikarrahman30/image-server/main/gmod.png",
+            "headline": "Garry's Mod",
+            "sub_head": "Windows® XP/Vista, 2 GHz Processor,  4gb RAM, 512MB dedicated VRAM"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/zulfikarrahman30/image-server/main/rocket.jpg",
+            "headline": " Rocket League",
+            "sub_head": " Windows 7, 2.0 GHz Dual core, 2gb RAM, Nvidia 8800 or ATI 2900"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/zulfikarrahman30/image-server/main/lfd.jpg",
+            "headline": "Left For Dead Series",
+            "sub_head": "Windows® 7 32/64-bit, Pentium 4 3.0GHz, 1 GB,NVidia 6600 "
+        }
+    ],
+    "Ubisoft": [
+        {
+            "image": "https://raw.githubusercontent.com/zulfikarrahman30/image-server/main/val.png",
+            "headline": "Assasin Creed Valhalla",
+            "sub_head": "Windows 7, Dual core or AMD at 2.8 ghz, 4gb RAM, NVIDIA GeForce 8600"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/zulfikarrahman30/image-server/main/syn.png",
+            "headline": "Assasin Creed Syndicate",
+            "sub_head": "Windows® XP/Vista, 2 GHz Processor,  4gb RAM, 512MB dedicated VRAM"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/zulfikarrahman30/image-server/main/ody.png",
+            "headline": "Assasin Creed Odyssey",
+            "sub_head": " Windows 7, 2.0 GHz Dual core, 2gb RAM, Nvidia 8800 or ATI 2900"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/zulfikarrahman30/image-server/main/bf.png",
+            "headline": "Assasin Creed Black Flag",
+            "sub_head": "Windows® 7 32/64-bit, Pentium 4 3.0GHz, 1 GB,NVidia 6600 "
+        }
+    ],
+    "Riot": [
+        {
+            "image": "https://raw.githubusercontent.com/zulfikarrahman30/image-server/main/lol.jpg",
+            "headline": "League of Legends",
+            "sub_head": "Windows 7, Dual core or AMD at 2.8 ghz, 4gb RAM, NVIDIA GeForce 8600"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/zulfikarrahman30/image-server/main/lor.jpg",
+            "headline": "Legends of Runaterra",
+            "sub_head": "Windows® XP/Vista, 2 GHz Processor,  4gb RAM, 512MB dedicated VRAM"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/zulfikarrahman30/image-server/main/lolwr.png",
+            "headline": "League of Legends Wilf Rift",
+            "sub_head": " Windows 7, 2.0 GHz Dual core, 2gb RAM, Nvidia 8800 or ATI 2900"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/zulfikarrahman30/image-server/main/valo.png",
+            "headline": "Valorant",
+            "sub_head": "Windows® 7 32/64-bit, Pentium 4 3.0GHz, 1 GB,NVidia 6600 "
+        }
+    ]
+}
